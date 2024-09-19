@@ -9,11 +9,11 @@ Javascript, Electron, NodeJs
 
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust"></picture>
+<picture><img src="https://skillicons.dev/icons?i=ts,nodejs,react,vue,nextjs,nuxtjs,electron"></picture>
 
 ### Tools I use
 
-<picture><img src="https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm"></picture>
+<picture><img src="https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,pnpm"></picture>
 
 <picture>
   <source
