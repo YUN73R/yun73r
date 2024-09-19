@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+YUN73R%F0%9F%91%8B">
 </picture>
 
-TypeScript enthusiast, Node.js user, Rust & Harmony beginner
+Javascript, Electron, NodeJs
 
-[🌐 Website](https://pengzhanbo.cn) · [📚 Blog](https://pengzhanbo.cn/blog/) · [📇 Contact](mailto:q942450674@outlook.com) · [💬 Dicsord](https://discord.gg/UJGcxJ9jnj)
+[📚 Blog](https://yun73r.netlify.app/)
 
 
 ### Tech stack
@@ -17,15 +17,15 @@ TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=yun73r&show_icons=true&hide_border=true&line_height=24&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yun73r&show_icons=true&hide_border=true&line_height=24" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yun73r&layout=compact&hide_border=true&langs_count=8&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yun73r&layout=compact&hide_border=true&langs_count=8" />
 </picture>
